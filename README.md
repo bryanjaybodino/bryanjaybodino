@@ -84,18 +84,16 @@ var developer = new Developer
 
 ## 🚀 Featured Projects
 
-> Replace `YOUR_PROJECT_1` and `YOUR_PROJECT_2` with your actual repository names.
-
 <div align="center">
 
-<a href="https://github.com/bryanjaybodino/YOUR_PROJECT_1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bryanjaybodino&repo=YOUR_PROJECT_1&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=1f6feb" />
-</a>
-<a href="https://github.com/bryanjaybodino/YOUR_PROJECT_2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bryanjaybodino&repo=YOUR_PROJECT_2&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=1f6feb" />
-</a>
+| Project | Stars | Forks | Issues |
+|--------|-------|-------|--------|
+| [**BNet.Library**](https://github.com/bryanjaybodino/BNet.Library) | ![Stars](https://img.shields.io/github/stars/bryanjaybodino/BNet.Library?style=flat-square&color=58a6ff&labelColor=0d1117&logo=github&cacheSeconds=3600) | ![Forks](https://img.shields.io/github/forks/bryanjaybodino/BNet.Library?style=flat-square&color=1f6feb&labelColor=0d1117&logo=git&cacheSeconds=3600) | ![Issues](https://img.shields.io/github/issues/bryanjaybodino/BNet.Library?style=flat-square&color=f85149&labelColor=0d1117&cacheSeconds=3600) |
+| [**BNet.Mobile.SMS**](https://github.com/bryanjaybodino/BNet.Mobile.SMS) | ![Stars](https://img.shields.io/github/stars/bryanjaybodino/BNet.Mobile.SMS?style=flat-square&color=58a6ff&labelColor=0d1117&logo=github&cacheSeconds=3600) | ![Forks](https://img.shields.io/github/forks/bryanjaybodino/BNet.Mobile.SMS?style=flat-square&color=1f6feb&labelColor=0d1117&logo=git&cacheSeconds=3600) | ![Issues](https://img.shields.io/github/issues/bryanjaybodino/BNet.Mobile.SMS?style=flat-square&color=f85149&labelColor=0d1117&cacheSeconds=3600) |
+| [**BNet.Mobile.FTP**](https://github.com/bryanjaybodino/BNet.Mobile.FTP) | ![Stars](https://img.shields.io/github/stars/bryanjaybodino/BNet.Mobile.FTP?style=flat-square&color=58a6ff&labelColor=0d1117&logo=github&cacheSeconds=3600) | ![Forks](https://img.shields.io/github/forks/bryanjaybodino/BNet.Mobile.FTP?style=flat-square&color=1f6feb&labelColor=0d1117&logo=git&cacheSeconds=3600) | ![Issues](https://img.shields.io/github/issues/bryanjaybodino/BNet.Mobile.FTP?style=flat-square&color=f85149&labelColor=0d1117&cacheSeconds=3600) |
 
 </div>
+
 
 ---
 
