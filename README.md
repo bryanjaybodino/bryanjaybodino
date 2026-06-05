@@ -65,8 +65,6 @@ var developer = new Developer
 
 ## 📊 GitHub Stats
 
-> ⚠️ **Setup required:** Replace `bryanjaybodino` below, then follow [this guide](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own) to deploy your own stats instance on Vercel (free) for reliable uptime.
-
 <div align="center">
 
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=bryanjaybodino&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=1f6feb"/>
@@ -79,6 +77,8 @@ var developer = new Developer
 <img src="https://streak-stats.demolab.com?user=bryanjaybodino&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b35&currStreakLabel=58a6ff&stroke=1f6feb" width="500"/>
 
 </div>
+
+
 
 ---
 
@@ -94,12 +94,17 @@ var developer = new Developer
 
 </div>
 
-
 ---
 
 ## 📈 Contribution Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=bryanjaybodino&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&hide_border=true" width="100%"/>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bryanjaybodino&theme=tokyonight" width="100%"/>
+
+</div>
 
 ---
 
