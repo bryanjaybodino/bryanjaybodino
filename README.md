@@ -5,15 +5,11 @@
 
 <div align="center">
 
-<!-- DARK/LIGHT MODE HEADER BANNER -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=200&section=header&text=YOUR_NAME&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20C%23%20%2F%20.NET%20Developer&descAlignY=58&descSize=18&descColor=8b949e&animation=fadeIn"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:dbeafe,50:3b82f6,100:1d4ed8&height=200&section=header&text=YOUR_NAME&fontSize=60&fontColor=1e3a5f&fontAlignY=38&desc=Full%20Stack%20C%23%20%2F%20.NET%20Developer&descAlignY=58&descSize=18&descColor=1e40af&animation=fadeIn"/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=200&section=header&text=YOUR_NAME&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20C%23%20%2F%20.NET%20Developer&descAlignY=58&descSize=18&descColor=8b949e&animation=fadeIn" alt="Header Banner"/>
-</picture>
+<!-- HEADER — single URL, works on both dark & light -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,20&height=200&section=header&text=YOUR_NAME&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20C%23%20%2F%20.NET%20Developer&descAlignY=58&descSize=18&descColor=c9d1d9&animation=fadeIn" width="100%"/>
 
 <!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1F6FEB&center=true&vCenter=true&width=600&lines=Building+robust+.NET+solutions+%F0%9F%9A%80;ASP.NET+Core+%7C+WinForms+%7C+Xamarin;Clean+code+%2C+clean+architecture+%E2%9C%A8;Open+to+collaborate+%F0%9F%A4%9D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+robust+.NET+solutions+%F0%9F%9A%80;ASP.NET+Core+%7C+WinForms+%7C+Xamarin;Clean+code+%2C+clean+architecture+%E2%9C%A8;Open+to+collaborate+%F0%9F%A4%9D)](https://git.io/typing-svg)
 
 <!-- PROFILE VIEWS + FOLLOWERS -->
 ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=1f6feb&label=Profile+Views)
@@ -44,7 +40,6 @@ var developer = new Developer
 ## 🛠️ Tech Stack & Skills
 
 ### 💙 Languages & Frameworks
-<div align="left">
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -55,10 +50,7 @@ var developer = new Developer
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-</div>
-
 ### 🗄️ Database & Tools
-<div align="left">
 
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -69,43 +61,22 @@ var developer = new Developer
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-</div>
-
 ---
 
 ## 📊 GitHub Stats
 
+> ⚠️ **Setup required:** Replace `YOUR_USERNAME` below, then follow [this guide](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own) to deploy your own stats instance on Vercel (free) for reliable uptime.
+
 <div align="center">
 
-<!-- STATS CARDS — auto dark/light via GitHub's theme context -->
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&border_color=30363d&hide_border=false&rank_icon=github&include_all_commits=true&count_private=true"/>
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&border_color=d0d7de&hide_border=false&rank_icon=github&include_all_commits=true&count_private=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&rank_icon=github" alt="GitHub Stats"/>
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&border_color=30363d&langs_count=8&hide=html,css"/>
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default&border_color=d0d7de&langs_count=8&hide=html,css"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&langs_count=8" alt="Top Languages"/>
-</picture>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=1f6feb"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8"/>
 
 </div>
 
 <div align="center">
 
-<!-- STREAK STATS -->
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark-blue&border=30363d&ring=1f6feb&fire=ff6b35&currStreakLabel=1f6feb"/>
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=default&border=d0d7de&ring=1d4ed8&fire=ff6b35&currStreakLabel=1d4ed8"/>
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark-blue" alt="GitHub Streak" width="500"/>
-</picture>
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b35&currStreakLabel=58a6ff&stroke=1f6feb" width="500"/>
 
 </div>
 
@@ -113,28 +84,15 @@ var developer = new Developer
 
 ## 🚀 Featured Projects
 
+> Replace `YOUR_PROJECT_1` and `YOUR_PROJECT_2` with your actual repository names.
+
 <div align="center">
 
-<!-- PROJECT CARD 1 -->
 <a href="https://github.com/YOUR_USERNAME/YOUR_PROJECT_1">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_PROJECT_1&theme=github_dark&border_color=30363d"/>
-    <source media="(prefers-color-scheme: light)"
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_PROJECT_1&theme=default&border_color=d0d7de"/>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_PROJECT_1&theme=github_dark" alt="Project 1"/>
-  </picture>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_PROJECT_1&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=1f6feb" />
 </a>
-
-<!-- PROJECT CARD 2 -->
 <a href="https://github.com/YOUR_USERNAME/YOUR_PROJECT_2">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_PROJECT_2&theme=github_dark&border_color=30363d"/>
-    <source media="(prefers-color-scheme: light)"
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_PROJECT_2&theme=default&border_color=d0d7de"/>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_PROJECT_2&theme=github_dark" alt="Project 2"/>
-  </picture>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_PROJECT_2&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=1f6feb" />
 </a>
 
 </div>
@@ -143,13 +101,7 @@ var developer = new Developer
 
 ## 📈 Contribution Graph
 
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&hide_border=true"/>
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&bg_color=ffffff&color=1d4ed8&line=3b82f6&point=1d4ed8&area=true&hide_border=true"/>
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact" alt="Contribution Graph"/>
-</picture>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&hide_border=true" width="100%"/>
 
 ---
 
@@ -168,12 +120,7 @@ var developer = new Developer
 
 <div align="center">
 
-<!-- FOOTER WAVE -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1f6feb,100:0d1117&height=120&section=footer"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1d4ed8,50:3b82f6,100:dbeafe&height=120&section=footer"/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1f6feb,100:0d1117&height=120&section=footer" alt="Footer"/>
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,20&height=120&section=footer" width="100%"/>
 
 *⭐ Star my repos if you find them helpful!*
 
