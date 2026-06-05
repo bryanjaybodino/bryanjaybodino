@@ -12,8 +12,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+robust+.NET+solutions+%F0%9F%9A%80;ASP.NET+Core+%7C+WinForms+%7C+Xamarin;Clean+code+%2C+clean+architecture+%E2%9C%A8;Open+to+collaborate+%F0%9F%A4%9D)](https://git.io/typing-svg)
 
 <!-- PROFILE VIEWS + FOLLOWERS -->
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=1f6feb&label=Profile+Views)
-[![GitHub followers](https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=flat-square&color=1f6feb)](https://github.com/YOUR_USERNAME)
+![Profile Views](https://komarev.com/ghpvc/?username=bryanjaybodino&style=flat-square&color=1f6feb&label=Profile+Views)
+[![GitHub followers](https://img.shields.io/github/followers/bryanjaybodino?label=Followers&style=flat-square&color=1f6feb)](https://github.com/bryanjaybodino)
 
 </div>
 
@@ -24,7 +24,7 @@
 ```csharp
 var developer = new Developer
 {
-    Name        = "Your Name",
+    Name        = "Bryan Jay Bodino",
     Role        = "Full Stack C# / .NET Developer",
     Location    = "📍 Philippines",
     Focus       = new[] { "ASP.NET Core", "Windows Forms", "Xamarin Android" },
@@ -65,18 +65,18 @@ var developer = new Developer
 
 ## 📊 GitHub Stats
 
-> ⚠️ **Setup required:** Replace `YOUR_USERNAME` below, then follow [this guide](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own) to deploy your own stats instance on Vercel (free) for reliable uptime.
+> ⚠️ **Setup required:** Replace `bryanjaybodino` below, then follow [this guide](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own) to deploy your own stats instance on Vercel (free) for reliable uptime.
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=1f6feb"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=bryanjaybodino&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=1f6feb"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryanjaybodino&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b35&currStreakLabel=58a6ff&stroke=1f6feb" width="500"/>
+<img src="https://streak-stats.demolab.com?user=bryanjaybodino&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b35&currStreakLabel=58a6ff&stroke=1f6feb" width="500"/>
 
 </div>
 
@@ -88,11 +88,11 @@ var developer = new Developer
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME/YOUR_PROJECT_1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_PROJECT_1&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=1f6feb" />
+<a href="https://github.com/bryanjaybodino/YOUR_PROJECT_1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bryanjaybodino&repo=YOUR_PROJECT_1&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=1f6feb" />
 </a>
-<a href="https://github.com/YOUR_USERNAME/YOUR_PROJECT_2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_PROJECT_2&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=1f6feb" />
+<a href="https://github.com/bryanjaybodino/YOUR_PROJECT_2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bryanjaybodino&repo=YOUR_PROJECT_2&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=1f6feb" />
 </a>
 
 </div>
@@ -101,7 +101,7 @@ var developer = new Developer
 
 ## 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bryanjaybodino&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&hide_border=true" width="100%"/>
 
 ---
 
@@ -112,7 +112,7 @@ var developer = new Developer
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/YOUR_FACEBOOK)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bryanjaybodino)
 
 </div>
 
