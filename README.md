@@ -6,7 +6,7 @@
 <div align="center">
 
 <!-- HEADER — single URL, works on both dark & light -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,20&height=200&section=header&text=BRYAN JAY BODINO&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20C%23%20%2F%20.NET%20Developer&descAlignY=58&descSize=18&descColor=c9d1d9&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,20&height=200&section=header&text=BRYAN%20JAY%20BODINO&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20C%23%20%2F%20.NET%20Developer&descAlignY=58&descSize=18&descColor=c9d1d9&animation=fadeIn" width="100%"/>
 
 <!-- TYPING ANIMATION -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+robust+.NET+solutions+%F0%9F%9A%80;ASP.NET+Core+%7C+WinForms+%7C+Xamarin;Clean+code+%2C+clean+architecture+%E2%9C%A8;Open+to+collaborate+%F0%9F%A4%9D)](https://git.io/typing-svg)
