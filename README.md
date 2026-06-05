@@ -12,8 +12,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+robust+.NET+solutions+%F0%9F%9A%80;ASP.NET+Core+%7C+WinForms+%7C+Xamarin;Clean+code+%2C+clean+architecture+%E2%9C%A8;Open+to+collaborate+%F0%9F%A4%9D)](https://git.io/typing-svg)
 
 <!-- PROFILE VIEWS + FOLLOWERS -->
-![Profile Views](https://komarev.com/ghpvc/?username=bryanjaybodino&style=flat-square&color=1f6feb&label=Profile+Views)
-[![GitHub followers](https://img.shields.io/github/followers/bryanjaybodino?label=Followers&style=flat-square&color=1f6feb)](https://github.com/bryanjaybodino)
+![Profile Views](https://komarev.com/ghpvc/?username=bryanjaybodino&style=flat-square&color=1f6feb&label=Profile+Views&labelColor=0d1117)
+[![GitHub followers](https://img.shields.io/github/followers/bryanjaybodino?label=Followers&style=flat-square&color=1f6feb&labelColor=0d1117&logo=github&cacheSeconds=3600)](https://github.com/bryanjaybodino)
 
 </div>
 
@@ -107,9 +107,9 @@ var developer = new Developer
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/YOUR_FACEBOOK)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bryanjay-bodino-27523a172)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/bodino.a.bryanjay)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bryanjaybodino@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bryanjaybodino)
 
 </div>
