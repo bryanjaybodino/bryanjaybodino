@@ -29,9 +29,9 @@ var developer = new Developer
     Location    = "📍 Philippines",
     Focus       = new[] { "ASP.NET Core", "Windows Forms", "Xamarin Android" },
     CurrentWork = "Building scalable backend APIs & cross-platform apps",
-    Learning    = "Blazor, MAUI, Azure Cloud",
+    Learning    = "AI, DevOps, Azure Cloud",
     Hobbies     = new[] { "Coding", "Problem Solving", "Open Source" },
-    Contact     = "your.email@example.com"
+    Contact     = "bryanjaybodino@example.com"
 };
 ```
 
